@@ -131,11 +131,11 @@ function initializeTypedText() {
     const cursor = document.querySelector('.cursor');
     
     const textArray = [
-        'Full Stack Developer',
-        'UI/UX Enthusiast',
-        'Problem Solver',
-        'Tech Innovator',
-        'Creative Thinker'
+        'Network Engineer',
+        'DevOps Specialist',
+        'Cloud Architect',
+        'Infrastructure Expert',
+        'Security Professional'
     ];
     
     let textArrayIndex = 0;
